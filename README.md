@@ -1,9 +1,3 @@
 # canvas-demo
 
-<a href="https://gfycat.com/ifr/LongElatedDevilfish">
-https://gfycat.com/ifr/LongElatedDevilfish
-</a>
-<a href="https://gfycat.com/gifs/detail/LongElatedDevilfish">
-![https://gfycat.com/ifr/LongElatedDevilfish](https://gfycat.com/ifr/LongElatedDevilfish)
-</a>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://media.giphy.com/media/lllI8GEeZZVNwW5Kw9/giphy.gif" width="400" />
